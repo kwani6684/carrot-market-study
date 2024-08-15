@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main> githubtest 마감기한 브렌치 push </main>;
+  return <main> githubtest 미팅을 ~ </main>;
 }
