@@ -1,3 +1,3 @@
 export default function Home() {
-  return <main> githubtest 미팅을 ~ push </main>;
+  return <main> githubtes t 백로그를 리스트ㅇ로 미팅을 ~ push </main>;
 }
